@@ -205,3 +205,20 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+# Ignore environment files
+.env
+*.env
+
+# Ignore python cache
+_pycache_/
+*.pyc
+
+# Ignore logs and sensitive data
+*.log
+results_pipeline/
+results_pdf/
+
+# Ignore IDE folders
+.vscode/
