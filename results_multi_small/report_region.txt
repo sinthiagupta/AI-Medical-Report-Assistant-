@@ -1,0 +1,9 @@
+              precision    recall  f1-score   support
+
+      distal       0.83      0.82      0.83        61
+      middle       0.85      0.81      0.83       112
+    proximal       0.55      0.70      0.62        23
+
+    accuracy                           0.80       196
+   macro avg       0.75      0.78      0.76       196
+weighted avg       0.81      0.80      0.80       196

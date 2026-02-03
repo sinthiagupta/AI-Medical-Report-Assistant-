@@ -1,0 +1,2 @@
+auc,accuracy,precision,recall,f1,model
+0.939611598829476,0.9,0.8994974874371859,1.0,0.9470899470899471,ann_blood

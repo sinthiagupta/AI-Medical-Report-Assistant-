@@ -1,0 +1,12 @@
+              precision    recall  f1-score   support
+
+       thumb       0.58      0.29      0.39        24
+       index       0.42      0.29      0.34        34
+      middle       0.76      0.67      0.71        66
+        ring       0.43      0.58      0.49        52
+      little       0.47      0.75      0.58        20
+       wrist       0.00      0.00      0.00         0
+
+    accuracy                           0.54       196
+   macro avg       0.44      0.43      0.42       196
+weighted avg       0.56      0.54      0.54       196
